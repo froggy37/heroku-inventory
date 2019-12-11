@@ -1,0 +1,92 @@
+[
+    {
+        "interface": "GigabitEthernet 1",
+        "description": "FREE",
+        "ipAddress": "",
+        "mask": ""
+    },
+    {
+        "interface": "GigabitEthernet 2",
+        "description": "FREE",
+        "ipAddress": "",
+        "mask": ""
+    },
+    {
+        "interface": "GigabitEthernet 3",
+        "description": "FREE",
+        "ipAddress": "",
+        "mask": ""
+    },
+    {
+        "interface": "GigabitEthernet 4",
+        "description": "FREE",
+        "ipAddress": "",
+        "mask": ""
+    },
+    {
+        "interface": "GigabitEthernet 5",
+        "description": "FREE",
+        "ipAddress": "",
+        "mask": ""
+    },
+    {
+        "interface": "GigabitEthernet 6",
+        "description": "FREE",
+        "ipAddress": "",
+        "mask": ""
+    },
+    {
+        "interface": "GigabitEthernet 7",
+        "description": "FREE",
+        "ipAddress": "",
+        "mask": ""
+    },
+    {
+        "interface": "GigabitEthernet 8",
+        "description": "FREE",
+        "ipAddress": "",
+        "mask": ""
+    },
+    {
+        "interface": "GigabitEthernet 9",
+        "description": "FREE",
+        "ipAddress": "",
+        "mask": ""
+    },
+    {
+        "interface": "GigabitEthernet 10",
+        "description": "FREE",
+        "ipAddress": "",
+        "mask": ""
+    },
+    {
+        "interface": "GigabitEthernet 11",
+        "description": "FREE",
+        "ipAddress": "",
+        "mask": ""
+    },
+    {
+        "interface": "GigabitEthernet 12",
+        "description": "FREE",
+        "ipAddress": "",
+        "mask": ""
+    },
+    {
+        "interface": "GigabitEthernet 13",
+        "description": "FREE",
+        "ipAddress": "",
+        "mask": ""
+    },
+    {
+        "interface": "GigabitEthernet 14",
+        "description": "FREE",
+        "ipAddress": "",
+        "mask": ""
+    },
+    {
+        "interface": "GigabitEthernet 15",
+        "description": "FREE",
+        "ipAddress": "",
+        "mask": ""
+    }
+]
