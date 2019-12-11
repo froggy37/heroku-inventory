@@ -1,1 +1,1 @@
-web: gunicorn inventory:inventory
+web: python3 inventory.py
